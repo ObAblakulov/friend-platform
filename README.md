@@ -1,14 +1,13 @@
 # Friendz?
 
 **A React Native social app built with Expo**  
-Helps people make friends based on shared interests with anonymous posting real time chat and location based discovery
+Helps people make friends based on shared interests, with anonymous posting, real-time chat, and location-based discovery
 
 ## Overview
 
-Friendz? blends familiar social features with anonymous interactions and location discovery to help users find and build friendships not just followers. The app supports image and video posts anonymous voting real time messaging and an interactive map for discovering nearby people and events
+Friendz? blends familiar social features with anonymous interactions and location discovery to help users find and build friendships, not just followers. The app supports image and video posts, anonymous voting, real-time messaging, and an interactive map for discovering nearby people and events.
 
-Repository purpose  
-A polished project to showcase production style mobile engineering for competitive SWE roles
+This repository is a showcase for the application.
 
 
 ## Request a TestFlight demo or codebase preview 
@@ -20,14 +19,14 @@ Email to request a TestFlight demo or additional information: ablakulovoybek@gma
 
 Frontend
 * React Native with Expo
-* Expo Router for file based navigation
+* Expo Router for file-based navigation
 * react native maps for map features
 * react native fast image for optimized image handling
-* react native render html for rich content
+* react native renders HTML for rich content
 
 Backend and Database
-* Supabase for Auth Postgres storage and real time subscriptions
-* PostgreSQL with Row Level Security for per row access control
+* Supabase for Auth, Postgres storage, and real-time subscriptions
+* PostgreSQL with Row Level Security for per-row access control
 * Supabase Storage for media management
 
 Libraries and Utilities
@@ -42,22 +41,22 @@ Libraries and Utilities
 ### Social
 * Customizable user profiles with interest tags and personal info
 * Friend system with friend codes for quick connections
-* Public posts and friend only posts with image and video support
+* Public posts and friend-only posts with image and video support
 * Anonymous posting with upvotes and downvotes
 
 ### Messaging and Groups
-* Real time direct messaging with read receipts and typing indicators
+* Real-time direct messaging with read receipts and typing indicators
 * Anonymous chat rooms and group messaging
 * Media sharing inside chats
 
 ### Discovery and Interaction
-* Interactive map for location based discovery
+* Interactive map for location-based discovery
 * Interest matching to suggest compatible users
-* Events creation discovery and RSVP
-* Push and in app notifications for messages requests and activity
+* Events creation, discovery, and RSVP
+* Push and in-app notifications for message requests and activity
 
 ### Privacy and Safety
-* Optional anonymous interactions for privacy focused users
+* Optional anonymous interactions for privacy-focused users
 * Supabase Auth for secure authentication
 * Row level security on the database for per user access control
 * Clear privacy policy and terms of service integration
