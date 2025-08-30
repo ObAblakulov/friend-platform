@@ -74,7 +74,7 @@ Libraries and Utilities
 * Clear privacy policy and terms of service integration
 
 
-![Moreinfo](assets/IMG_1461.png)
+<img src="assets/IMG_1461.png" alt="More info" width="240">
 
 
 ## Core functionality
@@ -99,7 +99,7 @@ Libraries and Utilities
 * Secrets kept in environment variables and never committed
 * Anonymous flows minimize personally identifying data
 
-## For recruiters and hiring managers
+## ⭐For recruiters and hiring managers
 
 Summary of my work:
 * Real-time app architecture using Supabase subscriptions and a mobile client
@@ -108,11 +108,12 @@ Summary of my work:
 * Media handling and performance work, including optimized image delivery and storage
 * Clear separation of service contexts and reusable UI components
 
-Please feel free to reach out for more information 
+Please feel free to reach out to my personal email for more information: ablakulovoybek@gmail.com or oybek.ablakulov@vanderbilt.edu
 
 
 ## License and ownership
 
 Developed by Mooruz LLC  
+Co-Founder Oybek Ablakulov
 Contact for licensing and partnership details
 
