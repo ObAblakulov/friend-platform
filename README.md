@@ -46,6 +46,7 @@ Libraries and Utilities
 * react native video for video playback
 * AsyncStorage for local persistence
 
+<img src="assets/Movie2.gif" alt="FriendZone vid2" width="240">
 
 ## Key features
 
@@ -71,6 +72,9 @@ Libraries and Utilities
 * Supabase Auth for secure authentication
 * Row-level security on the database for per-user access control
 * Clear privacy policy and terms of service integration
+
+
+![Moreinfo](assets/IMG_1461.png)
 
 
 ## Core functionality
