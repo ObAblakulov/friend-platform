@@ -1,4 +1,4 @@
-# Friends 
+# Friends | A True Social Media App
 *(name subject to change)
 
 
@@ -115,5 +115,6 @@ Please feel free to reach out to my personal email for more information: ablakul
 
 Developed by Mooruz LLC  
 Co-Founder Oybek Ablakulov
+
 Contact for licensing and partnership details
 
