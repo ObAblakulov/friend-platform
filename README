@@ -1,1 +1,98 @@
-Helo
+# FriendZone
+
+A React Native social networking application built with Expo, designed to help users connect and build friendships through shared interests, anonymous posting, real-time messaging, and location-based features.
+
+## Overview
+
+FriendZone is a mobile social platform that combines traditional social media features with anonymous interactions and location-based networking. Users can create posts, engage with content through upvotes and downvotes, participate in anonymous conversations, and discover people with similar interests through an interactive map interface.
+
+## Key Features
+
+### Social Networking
+* User profiles with customizable interests and personal information
+* Friend system with friend codes for easy connections
+* Real-time messaging with both identified and anonymous chat options
+* Post creation with image/video support and rich text editing
+* Anonymous posting system with voting mechanisms
+
+### Interactive Features
+* Location-based user discovery through an interactive map
+* Interest matching system to find compatible connections
+* Real-time notifications for messages, friend requests, and interactions
+* Event creation and participation system
+* Group messaging capabilities
+
+### Privacy & Security
+* Anonymous chat functionality for privacy-focused interactions
+* Comprehensive privacy policy and terms of service integration
+* Secure user authentication through Supabase
+* Friend request system with approval mechanisms
+
+## Technology Stack
+
+### Frontend
+* **React Native** with Expo framework
+* **Expo Router** for file-based navigation
+* **React Native Maps** for location features
+* **React Native Fast Image** for optimized image handling
+* **React Native Render HTML** for rich content display
+
+### Backend & Database
+* **Supabase** for database management and real-time features
+* **PostgreSQL** database with real-time subscriptions
+* **Supabase Storage** for file uploads and media management
+* **Row Level Security** for data protection
+
+### Key Libraries
+* **Moment.js** for date/time formatting
+* **React Native Image Picker** for media selection
+* **React Native Video** for video playback
+* **Async Storage** for local data persistence
+
+## Core Functionality
+
+### Authentication Flow
+Users can register with email/password authentication, complete an onboarding process that includes interest selection, academic information (for students), and privacy agreement acceptance.
+
+### Social Features
+The home feed displays a mix of posts and events, with support for both public anonymous posts and friend-only content. Users can upvote/downvote anonymous posts and like regular posts.
+
+### Messaging System
+Real-time messaging supports both direct messages between friends and anonymous chat rooms. The system includes read receipts, typing indicators, and media sharing capabilities.
+
+### Interest Matching
+Users can select interests during onboarding and later edit them. The system uses these interests to calculate compatibility scores between users for better matching.
+
+## Development Guidelines
+
+### Code Organization
+* Components are organized by functionality and reusability
+* Services handle all API interactions with Supabase
+* Contexts manage global application state
+* Constants define theme and configuration values
+
+### State Management
+The application uses React Context for global state management, with separate contexts for authentication, onboarding, and navigation state.
+
+### Real-time Features
+Leverages Supabase's real-time subscriptions for live updates on posts, messages, friend requests, and notifications.
+
+## Security Considerations
+
+* Row Level Security policies in Supabase protect user data
+* API keys are stored in environment variables
+* User authentication is handled through Supabase Auth
+* Anonymous features protect user privacy when desired
+
+## Contributing
+
+When contributing to this project:
+1. Follow the existing code style and structure
+2. Test changes thoroughly on both iOS and Android
+3. Ensure real-time features work correctly
+4. Update documentation for significant changes
+5. Consider privacy implications of new features
+
+## License
+
+This project is developed by Mooruz LLC. Please refer to the Terms & Conditions within the application for usage rights and
