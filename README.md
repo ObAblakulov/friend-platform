@@ -1,5 +1,8 @@
 # Friendz?
 
+![FriendZone home screen](assets/GITHUBIMAGE.png)
+
+
 **A React Native social app built with Expo**  
 Helps people make friends based on shared interests, with anonymous posting, real-time chat, and location-based discovery
 
