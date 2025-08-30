@@ -1,11 +1,11 @@
-# FriendZone
+# Friendz?
 
 **A React Native social app built with Expo**  
 Helps people make friends based on shared interests with anonymous posting real time chat and location based discovery
 
 ## Overview
 
-FriendZone blends familiar social features with anonymous interactions and location discovery to help users find and build friendships not just followers. The app supports image and video posts anonymous voting real time messaging and an interactive map for discovering nearby people and events
+Friendz? blends familiar social features with anonymous interactions and location discovery to help users find and build friendships not just followers. The app supports image and video posts anonymous voting real time messaging and an interactive map for discovering nearby people and events
 
 Repository purpose  
 A polished project to showcase production style mobile engineering for competitive SWE roles
@@ -87,7 +87,7 @@ Libraries and Utilities
 
 ## For recruiters and hiring managers
 
-Why FriendZone is recruiter friendly
+Why Friendz? is recruiter friendly
 * Real time app architecture using Supabase subscriptions and a mobile client
 * Security best practices implemented with RLS and proper auth
 * Location services and maps integration for production grade mobile features
@@ -96,14 +96,6 @@ Why FriendZone is recruiter friendly
 
 If you want a guided demo mention which area to focus on when you reach out for example messaging map discovery or anonymity workflows
 
-## Contributing
-
-When contributing follow these steps
-1. Follow the repository style and folder structure
-2. Test changes on iOS and Android and include device and OS in PR descriptions
-3. Validate real time flows and RLS changes locally before submitting
-4. Update documentation for significant feature or architectural changes
-5. Consider privacy implications for new features
 
 ## License and ownership
 
