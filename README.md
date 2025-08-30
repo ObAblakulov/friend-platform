@@ -14,6 +14,11 @@ Friends blends familiar social features with anonymous interactions and location
 
 This repository is a showcase for the application.
 
+<video controls width="640" poster="assets/Friendimage">
+  <source src="assets/Movie1.mp4" type="video/mp4">
+  Your browser does not support the video tag
+  <a href="assets/Movie1.mp4">Download the demo</a>
+</video>
 
 ## Request a TestFlight demo or codebase preview 
 
