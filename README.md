@@ -14,10 +14,8 @@ Friends blends familiar social features with anonymous interactions and location
 
 This repository is a showcase for the application.
 
-![FriendZone home vd](assets/Movie1.gif)
 
-<video src="assets/Movie1.mp4" width="320" height="240" controls></video>
-
+![FriendZone home video](assets/Movie1.gif)
 
 ## Request a TestFlight demo or codebase preview 
 
