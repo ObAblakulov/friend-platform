@@ -10,6 +10,33 @@ FriendZone blends familiar social features with anonymous interactions and locat
 Repository purpose  
 A polished project to showcase production style mobile engineering for competitive SWE roles
 
+
+## Request a TestFlight demo or codebase preview 
+
+Email to request a TestFlight demo or additional information: ablakulovoybek@gmail.com 
+
+
+## Tech stack
+
+Frontend
+* React Native with Expo
+* Expo Router for file based navigation
+* react native maps for map features
+* react native fast image for optimized image handling
+* react native render html for rich content
+
+Backend and Database
+* Supabase for Auth Postgres storage and real time subscriptions
+* PostgreSQL with Row Level Security for per row access control
+* Supabase Storage for media management
+
+Libraries and Utilities
+* Moment.js for date and time formatting
+* react native image picker for media selection
+* react native video for video playback
+* AsyncStorage for local persistence
+
+
 ## Key features
 
 ### Social
@@ -35,25 +62,6 @@ A polished project to showcase production style mobile engineering for competiti
 * Row level security on the database for per user access control
 * Clear privacy policy and terms of service integration
 
-## Tech stack
-
-Frontend
-* React Native with Expo
-* Expo Router for file based navigation
-* react native maps for map features
-* react native fast image for optimized image handling
-* react native render html for rich content
-
-Backend and Database
-* Supabase for Auth Postgres storage and real time subscriptions
-* PostgreSQL with Row Level Security for per row access control
-* Supabase Storage for media management
-
-Libraries and Utilities
-* Moment.js for date and time formatting
-* react native image picker for media selection
-* react native video for video playback
-* AsyncStorage for local persistence
 
 ## Core functionality
 
@@ -102,15 +110,3 @@ When contributing follow these steps
 Developed by Mooruz LLC  
 Contact for licensing and partnership details
 
-## Request a TestFlight demo
-
-Email to request a TestFlight demo: ablakulovoybek@gmail.com 
-
-## Short recruiter summary for a portfolio
-
-* Real time social app built with Expo and Supabase
-* Anonymous posting and anonymous chat with privacy first design
-* Location based discovery with interactive map
-* Production style handling of media and real time subscriptions
-
-If you want this trimmed to a one page README or a three bullet recruiter summary I can produce that next
