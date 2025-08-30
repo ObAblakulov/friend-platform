@@ -1,4 +1,4 @@
-# Friends
+# Friends (subject to change)
 
 ![FriendZone home screen](assets/Friendimage.png)
 
