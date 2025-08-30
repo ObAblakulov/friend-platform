@@ -87,7 +87,7 @@ Libraries and Utilities
 
 ## For recruiters and hiring managers
 
-Why Friendz? is recruiter friendly
+Short summary of my work:
 * Real time app architecture using Supabase subscriptions and a mobile client
 * Security best practices implemented with RLS and proper auth
 * Location services and maps integration for production grade mobile features
