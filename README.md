@@ -1,6 +1,6 @@
 # Friends
 
-![FriendZone home screen](assets/Githubimage.png)
+![FriendZone home screen](assets/Friendimage.png)
 
 
 **A React Native social app built with Expo**  
